@@ -25,6 +25,13 @@ Variables Data:
 
 - [interventions.csv](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/blob/master/data/interventions.csv) Restrictions for gatherings by date
 
+      import datetime
+      
+      date = datetime.date.fromordinal(ordinal_date)
+      
+      print(date.month, date.day, date.year)
+
+
 ### Checklist
 
 - [ ] Linear regression masks
