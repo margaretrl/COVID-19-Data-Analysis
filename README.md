@@ -3,7 +3,7 @@
 ### Members: Marija Travoric, Jacquelyn Nogueras, Margaret Rivas, Hannah Housand
 
 ### Project Description:
-Exploring how COVID-19 cases or deaths are related to other variables, such as mask mandates, socioeconomic status, or healthcare access. This can help identify factors that contribute to the spread of COVID-19. We utilized linear regression to model relationships. 
+Exploring how COVID-19 cases or deaths are related to other variables, such as mask mandates, socioeconomic status, or healthcare access. This can help identify factors that contribute to the spread of COVID-19. We utilized linear regression to model relationships. This can help policymakers evaluate the effectiveness of different interventions and make informed decisions about public health policy.
 
 ### Data
 
@@ -21,6 +21,13 @@ Variables Data:
 
 - [PovertyEstimates.csv](https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/) USDA Poverty estimate per county and state 2020
 
-- [Unenployment.csv](https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/)USA Unenployment and median household incomde for USA states 2000-2021
+- [Unenployment.csv](https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/) USA Unenployment and median household income for USA states 2000-2021
 
 - [interventions.csv](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/blob/master/data/interventions.csv) Restrictions for gatherings by date
+
+### Checklist
+
+- [ ] Linear regression masks
+- [ ] Linear regression lockdowns
+- [ ] Clustering Poverty levels - Deaths Hotspots
+- [ ] Clustering Median Household Income - Deaths Hotspots
