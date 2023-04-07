@@ -1,0 +1,2 @@
+1. The latest Poverty_Estimate Census data is from 2020, so we are making the assumption that the majority of the data did not dramatically change. The people remained in their relative tax-bracket for the next two years.
+2. Mask data is from July2 to July 14 2020.
