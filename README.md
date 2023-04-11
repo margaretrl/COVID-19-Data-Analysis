@@ -13,7 +13,7 @@ Infection Data:
 
 - [covid_county_population_usafacts.csv](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) USAFacts Population by county 
 
-- [covid_confirmed_usafacts.csv]https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/ USAFacts Confirmed cases by county
+- [covid_confirmed_usafacts.csv](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) USAFacts Confirmed cases by county
 
 Variables Data:
 
