@@ -41,3 +41,6 @@ Variables Data:
 - [ ] Linear regression Poverty levels - Cases correlation
 - [ ] Clustering Median Household Income - Death Hotspots
 - [ ] Linear regression Household Income
+- [X ] Map Unemployment
+- [X ] Map deaths
+- [X ] Map cases
