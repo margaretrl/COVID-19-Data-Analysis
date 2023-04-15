@@ -35,5 +35,9 @@ Variables Data:
 
 - [ ] Linear regression masks
 - [ ] Linear regression lockdowns
-- [ ] Clustering Poverty levels - Deaths Hotspots
-- [ ] Clustering Median Household Income - Deaths Hotspots
+- [ ] Clustering Poverty levels - Finding death hotspots
+- [ ] Linear regression Poverty levels - Deaths correlation
+- [ ] Clustering Poverty levels - Finding cases hotspots
+- [ ] Linear regression Poverty levels - Cases correlation
+- [ ] Clustering Median Household Income - Death Hotspots
+- [ ] Linear regression Household Income

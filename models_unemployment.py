@@ -5,7 +5,7 @@ from sklearn.impute import SimpleImputer
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
-# Models for unenployment rates vs covid deaths & cases for 2020
+# Models for unemployment rates vs covid deaths & cases for 2020
 
 # Load
 # Deaths totals are also inside this new cleaned csv
@@ -54,7 +54,9 @@ plt.plot(x_range, y_range, color="red")
 # Set the axis labels and title
 plt.xlabel("Total Deaths 2020")
 plt.ylabel("Unemployment rate 2020")
-plt.title("Scatter plot and line of best fit")
+plt.title(
+    "Total Deaths in 2020 vs. Unemployment rate 2020 - Linear regression and line of best fit"
+)
 
 # Display the plot
 plt.show()

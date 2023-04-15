@@ -2,8 +2,6 @@ import pandas as pd
 
 # Cleaning Unemployment.csv
 
-# Cleaning Unemployment.csv
-
 # Read in the CSV file
 dfUnemployment = pd.read_csv(
     "/Users/margaretrivas/Desktop/IDC4140/finalProject/datasets/Unemployment.csv"
