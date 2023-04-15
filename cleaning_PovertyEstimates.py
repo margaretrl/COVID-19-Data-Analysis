@@ -1,6 +1,8 @@
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
+from sklearn.metrics import mean_squared_error
+from sklearn.model_selection import train_test_split
 
 
 
@@ -51,6 +53,24 @@ X = merged_df[['POVALL_2020']]
 y = merged_df['total_dead']
 
 
+X_train, X_test, y_train, y_test = train_test_split(merged_df[['POVALL_2020']], merged_df['total_dead'], test_size=0.3, random_state=42)
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+
+# Calculate mean squared error
+mse = mean_squared_error(y_test, y_pred)
+rmse = mean_squared_error(y_test, y_pred, squared=False)
+print("Mean Squared Error: ", mse)
+print("Root Mean Squared Error: ", mse)
+
+# plt.scatter(X_train, y_train)
+# plt.scatter(X_test,y_test)
+# plt.plot(X_train, model.predict(X_train))
+# plt.show()
+
 model = LinearRegression()
 model.fit(X, y)
 
@@ -75,6 +95,20 @@ merged_df_2.head(15)
 X = merged_df_2[['MEDHHINC_2020']]
 y = merged_df_2['total_dead']
 print(merged_df_2.describe())
+
+X_train, X_test, y_train, y_test = train_test_split(merged_df_2[['MEDHHINC_2020']], merged_df_2['total_dead'], test_size=0.3, random_state=42)
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+
+# Calculate mean squared error
+mse = mean_squared_error(y_test, y_pred)
+rmse = mean_squared_error(y_test, y_pred, squared=False)
+print("Mean Squared Error: ", mse)
+print("Root Mean Squared Error: ", mse)
+
 
 
 model = LinearRegression()
