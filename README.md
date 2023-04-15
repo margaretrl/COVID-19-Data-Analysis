@@ -24,3 +24,16 @@ Variables Data:
 - [Unenployment.csv](https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/)USA Unenployment and median household incomde for USA states 2000-2021
 
 - [interventions.csv](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/blob/master/data/interventions.csv) Restrictions for gatherings by date
+
+      import datetime
+      
+      date = datetime.date.fromordinal(ordinal_date)
+      
+      print(date.month, date.day, date.year)
+      
+### Checklist
+
+- [ ] Linear regression masks
+- [ ] Linear regression lockdowns
+- [ ] Clustering Poverty levels - Deaths Hotspots
+- [ ] Clustering Median Household Income - Deaths Hotspots
