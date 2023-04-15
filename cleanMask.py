@@ -5,6 +5,7 @@ dfMask = pd.read_csv('/Users/marijatravoric/IDC 4140/COVID-19-Data-Analysis/data
 
 dfDeaths = pd.read_csv('/Users/marijatravoric/IDC 4140/COVID-19-Data-Analysis/datasets/covid_deaths_usafacts.csv')
 
+
 #########################
 # Keeping all 2020 info #
 #########################
@@ -39,6 +40,7 @@ dfDeaths.to_csv('updated_Deaths_dataset.csv', index=False)
 #####################################################
 # Checking how many rows match between each dataset #
 #####################################################
+#There are 3142 rows that match
 
 #Select the columns to compare and rename them to the same name
 col_to_compare_Mask = 'COUNTYFP'
