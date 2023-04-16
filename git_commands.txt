@@ -25,4 +25,5 @@ git push
 git status  //make sure there is nothing left to push 
 
 To Update Branch:
+git fetch
 git pull
