@@ -33,11 +33,14 @@ Variables Data:
       
 ### Checklist
 
-- [ ] Linear regression masks
+- [X] Linear regression masks
 - [ ] Linear regression lockdowns
 - [ ] Clustering Poverty levels - Finding death hotspots
-- [ ] Linear regression Poverty levels - Deaths correlation
+- [X] Linear regression Poverty levels - Deaths correlation
 - [ ] Clustering Poverty levels - Finding cases hotspots
-- [ ] Linear regression Poverty levels - Cases correlation
+- [X] Linear regression Poverty levels - Cases correlation
 - [ ] Clustering Median Household Income - Death Hotspots
-- [ ] Linear regression Household Income
+- [X] Linear regression Household Income
+- [X] Map Unemployment
+- [X] Map deaths
+- [X] Map cases
