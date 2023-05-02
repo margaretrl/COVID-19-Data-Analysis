@@ -1,6 +1,6 @@
 # COVID-19-Data-Analysis
 
-### Members: Marija Travoric, Jacquelyn Nogueras, Margaret Rivas, Hannah Housand
+### Members: Margaret Rivas, Marija Travoric, Jacquelyn Nogueras, Hannah Housand
 
 ### Project Description:
 Exploring how COVID-19 cases or deaths are related to other variables, such as mask mandates, socioeconomic status, or healthcare access. This can help identify factors that contribute to the spread of COVID-19. We utilized linear regression to model relationships. This can help policymakers evaluate the effectiveness of different interventions and make informed decisions about public health policy.
@@ -31,10 +31,18 @@ Variables Data:
       
       print(date.month, date.day, date.year)
 
-
+      
 ### Checklist
 
-- [ ] Linear regression masks
+- [X] Linear regression masks
 - [ ] Linear regression lockdowns
-- [ ] Clustering Poverty levels - Deaths Hotspots
-- [ ] Clustering Median Household Income - Deaths Hotspots
+- [ ] Clustering Poverty levels - Finding death hotspots
+- [X] Linear regression Poverty levels - Deaths correlation
+- [ ] Clustering Poverty levels - Finding cases hotspots
+- [X] Linear regression Poverty levels - Cases correlation
+- [ ] Clustering Median Household Income - Death Hotspots
+- [X] Linear regression Household Income
+- [X] Map Unemployment
+- [X] Map deaths
+- [X] Map cases
+

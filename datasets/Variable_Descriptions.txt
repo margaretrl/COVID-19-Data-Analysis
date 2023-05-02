@@ -1,0 +1,34 @@
+FIPS_Code:                          State-county Federal Information Processing Standards (FIPS) code
+State:                              State abbreviation
+Area_name:                          Area name
+Rural-urban_Continuum_Code_2003:    Rural-Urban Continuum Code, 2003
+Urban_Influence_Code_2003:          Urban Influence Code, 2003
+Rural-urban_Continuum_Code_2013:    Rural-Urban Continuum Code, 2013
+Urban_Influence_Code_2013:          Urban Influence Code, 2013
+POVALL_2020:                        Estimate of people of all ages in poverty 2020
+CI90LBAll_2020:                     90 percent confidence interval lower bound of estimate of people of all ages in poverty 2020
+CI90UBALL_2020:                     90 percent confidence interval upper bound of estimate of people of all ages in poverty 2020
+PCTPOVALL_2020:                     Estimated percent of people of all ages in poverty 2020
+CI90LBALLP_2020:                    90 percent confidence interval lower bound of estimate of percent of people of all ages in poverty 2020
+CI90UBALLP_2020:                    90 percent confidence interval upper bound of estimate of percent of people of all ages in poverty 2020
+POV017_2020:                        Estimate of people age 0-17 in poverty 2020
+CI90LB017_2020:                     90 percent confidence interval lower bound of estimate of people age 0-17 in poverty 2020
+CI90UB017_2020:                     90 percent confidence interval upper bound of estimate of people age 0-17 in poverty 2020
+PCTPOV017_2020:                     Estimated percent of people age 0-17 in poverty 2020
+CI90LB017P_2020:                    90 percent confidence interval lower bound of estimate of percent of people age 0-17 in poverty 2020
+CI90UB017P_2020:                    90 percent confidence interval upper bound of estimate of percent of people age 0-17 in poverty 2020
+POV517_2020:                        Estimate of related children age 5-17 in families in poverty 2020
+CI90LB517_2020:                     90 percent confidence interval lower bound of estimate of related children age 5-17 in families in poverty 2020
+CI90UB517_2020:	                    90 percent confidence interval upper bound of estimate of related children age 5-17 in families in poverty 2020
+PCTPOV517_2020:	                    Estimated percent of related children age 5-17 in families in poverty 2020
+CI90LB517P_2020:	                90 percent confidence interval lower bound of estimate of percent of related children age 5-17 in families in poverty 2020
+CI90UB517P_2020:                    90 percent confidence interval upper bound of estimate of percent of related children age 5-17 in families in poverty 2020
+MEDHHINC_2020:	                    Estimate of median household income 2020
+CI90LBINC_2020:	                    90 percent confidence interval lower bound of estimate of median household income 2020
+CI90UBINC_2020:	                    90 percent confidence interval upper bound of estimate of median household income 2020
+POV04_2020:	                        Estimate of children ages 0 to 4 in poverty 2020 (available for the U.S. and State total only)
+CI90LB04_2020:	                    90 percent confidence interval lower bound of estimate of children ages 0 to 4 in poverty 2020 (available for the U.S. and State total only)
+CI90UB04_2020:	                    90 percent confidence interval upper bound of estimate of children ages 0 to 4 in poverty 2020 (available for the U.S. and State total only)
+PCTPOV04_2020:	                    Estimated percent of children ages 0 to 4 in poverty 2020 (available for the U.S. and State total only)
+CI90LB04P_2020:	                    90 percent confidence interval lower bound of estimate of percent of children ages 0 to 4 in poverty 2020 (available for the U.S. and State total only)
+CI90UB04P_2020:	                    90 percent confidence interval upper bound of estimate of percent of children ages 0 to 4 in poverty 2020 (available for the U.S. and State total only)
