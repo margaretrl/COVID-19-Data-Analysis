@@ -1,6 +1,6 @@
 # COVID-19-Data-Analysis
 
-### Members: Marija Travoric, Jacquelyn Nogueras, Margaret Rivas, Hannah Housand
+### Members: Margaret Rivas, Marija Travoric, Jacquelyn Nogueras, Hannah Housand
 
 ### Project Description:
 Exploring how COVID-19 cases or deaths are related to other variables, such as mask mandates, socioeconomic status, or healthcare access. This can help identify factors that contribute to the spread of COVID-19. We utilized linear regression to model relationships. 
